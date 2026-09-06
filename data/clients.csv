@@ -1,0 +1,508 @@
+client_id,signup_date,country,segment,acquisition_channel,account_manager_id,company_size
+CL0001,2025-12-17,Germany,Enterprise Services,Paid Partnerships,M01,Medium
+CL0002,2025-12-03,Canada,SMB Tech,Paid Partnerships,M05,Small
+CL0003,2025-11-01,Poland,SMB Tech,Referral,M02,Small
+CL0004,2025-11-05,United States,SMB Tech,Paid Partnerships,M05,Small
+CL0005,2025-02-24,United States,Enterprise Services,Organic,M02,Enterprise
+CL0006,2025-12-10,United Kingdom,SMB Tech,Organic,M06,Large
+CL0007,2025-01-18,France,Enterprise Services,Referral,M02,Large
+CL0008,2025-06-05,France,Recruitment,Referral,M03,Enterprise
+CL0009,2025-09-16,United Kingdom,Enterprise Services,Organic,M05,Enterprise
+CL0010,2025-09-29,United States,SMB Tech,Paid Partnerships,M06,Small
+CL0011,2025-10-26,Canada,SMB Tech,Outbound,M04,Small
+CL0012,2025-10-28,UAE,Recruitment,Organic,M02,Large
+CL0013,2025-12-15,United Kingdom,SMB Tech,Paid Partnerships,M01,Small
+CL0014,2024-11-28,France,Gaming Studios,Outbound,M04,Small
+CL0015,2024-09-12,Canada,SMB Tech,Referral,M03,Small
+CL0016,2024-08-02,United Kingdom,Gaming Studios,Outbound,M04,Medium
+CL0017,2025-11-04,United States,SMB Tech,Organic,M05,Small
+CL0018,2025-03-28,Singapore,SMB Tech,Referral,M01,Small
+CL0019,2025-01-17,Poland,Recruitment,Outbound,M03,Large
+CL0020,2025-07-25,Poland,SMB Tech,Organic,M04,Small
+CL0021,2025-07-10,Cyprus,Enterprise Services,Organic,M02,Enterprise
+CL0022,2025-10-19,France,Recruitment,Paid Partnerships,M04,Medium
+CL0023,2025-11-20,Singapore,SMB Tech,Paid Partnerships,M04,Small
+CL0024,2024-01-18,Germany,SMB Tech,Referral,M03,Large
+CL0025,2025-12-04,France,SMB Tech,Organic,M05,Medium
+CL0026,2025-02-18,Netherlands,Recruitment,Organic,M05,Large
+CL0027,2024-12-12,France,SMB Tech,Outbound,M01,Medium
+CL0028,2025-09-23,Estonia,SMB Tech,Paid Partnerships,M01,Medium
+CL0029,2025-07-28,UK,Recruitment,Paid Partnerships,M04,Large
+CL0030,2025-09-01,Netherlands,SMB Tech,Paid Partnerships,M04,Small
+CL0031,2025-11-03,Netherlands,SMB Tech,Paid Partnerships,M03,Small
+CL0032,2025-03-03,United States,Enterprise Services,Organic,M01,Large
+CL0033,2024-09-29,Estonia,SMB Tech,Organic,M03,Small
+CL0034,2025-09-18,Cyprus,SMB Tech,Outbound,M01,Medium
+CL0035,2025-10-11,Poland,SMB Tech,Referral,M01,Small
+CL0036,2025-09-19,UAE,SMB Tech,Paid Partnerships,M01,Small
+CL0037,2025-03-20,Netherlands,SMB Tech,Referral,M03,Small
+CL0038,2025-11-15,Netherlands,Enterprise Services,Referral,M04,Medium
+CL0039,2025-10-07,Spain,SMB Tech,Paid Partnerships,M04,Small
+CL0040,2025-09-02,Poland,SMB Tech,Referral,M05,Small
+CL0041,2025-12-06,Spain,SMB Tech,Paid Partnerships,M01,Small
+CL0042,2025-05-05,United States,Recruitment,Outbound,M03,Enterprise
+CL0043,2025-05-28,France,Enterprise Services,Organic,M01,Enterprise
+CL0044,2025-10-09,Canada,SMB Tech,Paid Partnerships,M03,Small
+CL0045,2025-12-02,United Kingdom,SMB Tech,Organic,M06,Large
+CL0046,2025-06-25,Estonia,SMB Tech,Outbound,M04,Small
+CL0047,2025-08-18,France,SMB Tech,Paid Partnerships,M02,Small
+CL0048,2025-09-15,Netherlands,Enterprise Services,Referral,M04,Enterprise
+CL0049,2025-12-04,Poland,Recruitment,Outbound,M05,Large
+CL0050,2024-12-01,Netherlands,Recruitment,Organic,M03,Enterprise
+CL0051,2025-09-29,Germany,SMB Tech,Outbound,M03,Small
+CL0052,2025-09-05,United Kingdom,Enterprise Services,Outbound,M03,Large
+CL0053,2025-12-12,United States,SMB Tech,Outbound,M03,Medium
+CL0054,2025-06-27,GB,SMB Tech,Referral,M06,Medium
+CL0055,2025-09-16,United States,Enterprise Services,Paid Partnerships,M01,Medium
+CL0056,2025-06-03,Spain,SMB Tech,Organic,M06,Medium
+CL0057,2025-12-16,France,Enterprise Services,Paid Partnerships,M05,Small
+CL0058,2025-11-09,Netherlands,Recruitment,,M01,Medium
+CL0059,2025-10-07,United Kingdom,Recruitment,Referral,M06,Small
+CL0060,2025-05-12,United Kingdom,SMB Tech,,M05,Small
+CL0061,2025-06-27,United States,Enterprise Services,Organic,M03,Large
+CL0062,2025-05-23,UK,Enterprise Services,Outbound,M06,Large
+CL0063,2024-12-12,Singapore,SMB Tech,Organic,M03,Medium
+CL0064,2025-06-20,Netherlands,Enterprise Services,Outbound,M06,Large
+CL0065,2024-08-23,France,Enterprise Services,Organic,M02,Medium
+CL0066,2025-11-12,Singapore,SMB Tech,Organic,M01,Small
+CL0067,2025-07-06,UK,Enterprise Services,Organic,M04,Enterprise
+CL0068,2025-03-02,Singapore,SMB Tech,Organic,M02,Small
+CL0069,2025-07-05,USA,Enterprise Services,Organic,M02,Small
+CL0070,2025-07-30,United Kingdom,Recruitment,Organic,M03,Large
+CL0071,2025-06-28,Poland,SMB Tech,Referral,M01,Small
+CL0072,2025-03-15,UK,Enterprise Services,Organic,M03,Medium
+CL0073,2025-01-06,Canada,SMB Tech,Outbound,M04,Medium
+CL0074,2025-07-06,United States,Enterprise Services,Organic,M03,Large
+CL0075,2025-11-09,Netherlands,SMB Tech,Outbound,M05,Large
+CL0076,2025-12-04,Germany,Recruitment,Organic,M03,Medium
+CL0077,2025-10-12,France,SMB Tech,Paid Partnerships,M06,Small
+CL0078,2024-10-17,UAE,Gaming Studios,Organic,M02,Small
+CL0079,2025-11-03,France,SMB Tech,Paid Partnerships,M06,Small
+CL0080,2024-07-07,Singapore,Enterprise Services,Organic,M01,Medium
+CL0081,2024-12-11,United Kingdom,Enterprise Services,Referral,M05,Large
+CL0082,2025-06-06,Estonia,SMB Tech,Paid Partnerships,M02,Large
+CL0083,2025-12-10,United States,Recruitment,Referral,M04,Enterprise
+CL0084,2024-06-29,Poland,SMB Tech,Outbound,M03,Medium
+CL0085,2025-06-30,Netherlands,Enterprise Services,Referral,M02,Enterprise
+CL0086,2025-07-17,Singapore,SMB Tech,Outbound,M05,Small
+CL0087,2024-06-11,United States,SMB Tech,Referral,M01,Medium
+CL0088,2025-02-10,Cyprus,SMB Tech,Outbound,M02,Small
+CL0089,2024-10-07,Netherlands,Recruitment,Outbound,M02,Large
+CL0090,2024-10-23,Cyprus,SMB Tech,Outbound,M02,Large
+CL0091,2025-08-12,Germany,SMB Tech,Paid Partnerships,M02,Small
+CL0092,2025-12-01,UAE,SMB Tech,Organic,M03,Small
+CL0093,2025-12-17,United Kingdom,Recruitment,Referral,M02,Enterprise
+CL0094,2025-12-12,Singapore,Recruitment,Organic,M05,Large
+CL0095,2024-10-25,Netherlands,Enterprise Services,Referral,M02,Medium
+CL0096,2025-01-21,United Kingdom,Enterprise Services,Referral,M06,Enterprise
+CL0097,2025-11-22,France,Enterprise Services,Paid Partnerships,M03,Large
+CL0098,2025-11-08,Estonia,Recruitment,Outbound,M05,Enterprise
+CL0099,2025-02-08,United Kingdom,SMB Tech,Outbound,M05,Medium
+CL0100,2025-12-06,Poland,SMB Tech,Paid Partnerships,M01,Small
+CL0101,2025-09-28,Germany,SMB Tech,Paid Partnerships,M01,Small
+CL0102,2024-12-14,France,SMB Tech,Organic,M05,Medium
+CL0103,2025-06-21,United States,SMB Tech,Referral,M02,Small
+CL0104,2024-11-06,United States,SMB Tech,Organic,M02,Large
+CL0105,2025-02-28,France,Enterprise Services,Organic,M02,Large
+CL0106,2025-08-14,Germany,Recruitment,Referral,M03,Large
+CL0107,2024-11-04,Singapore,Enterprise Services,Referral,M03,Enterprise
+CL0108,2025-09-23,United States,SMB Tech,Outbound,M06,Medium
+CL0109,2024-10-04,Netherlands,SMB Tech,Outbound,M01,Medium
+CL0110,2025-11-28,Singapore,SMB Tech,Paid Partnerships,M01,Medium
+CL0111,2025-08-26,Netherlands,SMB Tech,Paid Partnerships,M04,Medium
+CL0112,2025-05-28,Germany,Recruitment,Organic,M03,Medium
+CL0113,2024-10-26,UAE,SMB Tech,Outbound,M04,Small
+CL0114,2024-09-01,Germany,SMB Tech,Outbound,M05,Small
+CL0115,2025-01-15,Canada,SMB Tech,Organic,M01,Large
+CL0116,2025-12-07,Germany,SMB Tech,Organic,M02,Small
+CL0117,2024-12-23,UAE,Enterprise Services,Organic,M01,Enterprise
+CL0118,2025-11-24,Spain,Enterprise Services,Referral,M03,Medium
+CL0119,2025-07-02,Germany,Enterprise Services,Organic,M05,Large
+CL0120,2024-04-04,France,Gaming Studios,Paid Partnerships,M04,Small
+CL0121,2024-03-15,Cyprus,SMB Tech,Organic,M04,Small
+CL0122,2025-05-03,United Kingdom,Recruitment,Organic,M02,Large
+CL0123,2024-08-03,United States,SMB Tech,Organic,M03,Medium
+CL0124,2025-11-03,UAE,Recruitment,Referral,M04,Large
+CL0125,2025-01-05,UAE,Recruitment,Organic,M04,Enterprise
+CL0126,2025-10-14,UAE,Enterprise Services,Organic,M04,Enterprise
+CL0127,2024-08-10,Germany,SMB Tech,Referral,M03,Small
+CL0128,2024-05-01,Poland,SMB Tech,Organic,M02,Small
+CL0129,2024-09-15,France,SMB Tech,Outbound,M03,Small
+CL0130,2025-08-14,Germany,SMB Tech,Organic,M06,Small
+CL0131,2025-12-10,UAE,SMB Tech,Outbound,M02,Large
+CL0132,2025-07-20,United States,SMB Tech,Paid Partnerships,M04,Small
+CL0133,2025-07-08,Singapore,Enterprise Services,Referral,M03,Enterprise
+CL0134,2025-08-26,France,SMB Tech,Referral,M01,Small
+CL0135,2025-10-19,UAE,Recruitment,Organic,M05,Small
+CL0136,2025-07-02,United States,SMB Tech,Paid Partnerships,M05,Small
+CL0137,2025-11-11,Poland,SMB Tech,Paid Partnerships,M03,Small
+CL0138,2025-11-09,Netherlands,Recruitment,Outbound,M06,Large
+CL0139,2025-03-19,France,Enterprise Services,Referral,M04,Large
+CL0140,2025-11-29,Netherlands,SMB Tech,Organic,M01,Medium
+CL0141,2025-07-11,United Kingdom,SMB Tech,Paid Partnerships,M03,Small
+CL0142,2024-10-07,United Kingdom,Gaming Studios,Referral,M05,Medium
+CL0143,2024-04-20,Canada,Enterprise Services,Organic,M02,Medium
+CL0144,2025-12-09,Canada,SMB Tech,Paid Partnerships,M03,Small
+CL0145,2025-05-31,Netherlands,SMB Tech,Outbound,M05,Medium
+CL0146,2025-06-24,UK,Recruitment,Outbound,M01,Large
+CL0147,2024-12-15,United States,Recruitment,Outbound,M01,Enterprise
+CL0148,2025-03-05,United Kingdom,SMB Tech,Outbound,M03,Small
+CL0149,2025-07-23,Netherlands,SMB Tech,Outbound,M06,Small
+CL0150,2025-11-21,UAE,Enterprise Services,Paid Partnerships,M04,Medium
+CL0151,2025-12-01,United Kingdom,SMB Tech,Referral,M03,Small
+CL0152,2025-01-29,United Kingdom,SMB Tech,Organic,M02,Small
+CL0153,2025-04-23,Estonia,Enterprise Services,Outbound,M04,Enterprise
+CL0154,2025-04-22,Spain,Recruitment,Organic,M03,Medium
+CL0155,2025-04-28,United States,Recruitment,Organic,M02,Medium
+CL0156,2024-03-04,UAE,SMB Tech,Referral,M02,Small
+CL0157,2024-12-28,Netherlands,SMB Tech,Referral,M05,Small
+CL0158,2025-05-05,France,Enterprise Services,Outbound,M05,Large
+CL0159,2025-07-08,Singapore,SMB Tech,Paid Partnerships,M01,Medium
+CL0160,2025-11-08,UAE,Enterprise Services,Referral,M05,Medium
+CL0161,2025-08-04,Singapore,SMB Tech,Paid Partnerships,M02,Small
+CL0162,2025-04-17,GB,Enterprise Services,Referral,M05,Enterprise
+CL0163,2025-10-11,Netherlands,SMB Tech,Paid Partnerships,M02,Small
+CL0164,2025-08-05,UK,SMB Tech,Outbound,M03,Small
+CL0165,2025-11-12,Canada,SMB Tech,Referral,M06,Small
+CL0166,2025-11-30,Germany,SMB Tech,Paid Partnerships,M06,Small
+CL0167,2025-09-24,Germany,Recruitment,Referral,M03,Medium
+CL0168,2024-02-10,Singapore,SMB Tech,Organic,M01,Small
+CL0169,2024-12-23,United Kingdom,Enterprise Services,Referral,M04,Medium
+CL0170,2025-12-10,United States,Enterprise Services,Referral,M06,Enterprise
+CL0171,2025-11-30,UAE,SMB Tech,Paid Partnerships,M01,Small
+CL0172,2025-08-07,Poland,SMB Tech,Organic,M04,Small
+CL0173,2024-10-08,Canada,Enterprise Services,Organic,M04,Large
+CL0174,2024-07-04,United Kingdom,Gaming Studios,Referral,M01,Small
+CL0175,2025-06-16,United Kingdom,SMB Tech,Outbound,M02,Medium
+CL0176,2025-11-03,Singapore,Recruitment,Organic,M04,Enterprise
+CL0177,2024-05-06,Singapore,SMB Tech,Organic,M02,Medium
+CL0178,2025-10-24,GB,SMB Tech,Paid Partnerships,M02,Small
+CL0179,2024-09-05,United Kingdom,SMB Tech,Organic,M04,Medium
+CL0180,2025-05-01,Poland,SMB Tech,Referral,M04,Medium
+CL0181,2025-09-26,Netherlands,SMB Tech,Paid Partnerships,M01,Small
+CL0182,2025-09-21,Poland,SMB Tech,Paid Partnerships,M06,Small
+CL0183,2024-11-14,Poland,SMB Tech,Paid Partnerships,M03,Small
+CL0184,2025-03-18,Poland,Gaming Studios,Referral,M04,Small
+CL0185,2025-10-17,United States,Enterprise Services,Paid Partnerships,M05,Enterprise
+CL0186,2024-09-16,Spain,SMB Tech,Referral,M01,Medium
+CL0187,2025-08-08,United States,Recruitment,Organic,M05,Large
+CL0188,2025-11-12,UAE,SMB Tech,Organic,M06,Small
+CL0189,2025-04-15,United Kingdom,SMB Tech,Referral,M03,Small
+CL0190,2025-07-24,Netherlands,Recruitment,Organic,M04,Large
+CL0191,2025-10-18,United Kingdom,SMB Tech,Outbound,M04,Medium
+CL0192,2024-11-03,Cyprus,SMB Tech,Referral,M03,Small
+CL0193,2025-02-01,United Kingdom,Enterprise Services,Referral,M06,Large
+CL0194,2025-08-31,United States,Enterprise Services,Outbound,M03,Medium
+CL0195,2025-01-29,Spain,Recruitment,Outbound,M02,Large
+CL0196,2025-08-07,Estonia,SMB Tech,Organic,M06,Small
+CL0197,2025-11-21,Estonia,Gaming Studios,Outbound,M05,Medium
+CL0198,2025-07-06,Netherlands,Enterprise Services,Paid Partnerships,M04,Small
+CL0199,2025-01-23,Singapore,SMB Tech,Organic,M04,Small
+CL0200,2025-07-24,France,SMB Tech,Referral,M01,Small
+CL0201,2025-01-06,Cyprus,SMB Tech,Outbound,M02,Small
+CL0202,2025-03-06,Cyprus,Recruitment,Referral,M05,Medium
+CL0203,2025-03-08,Canada,Enterprise Services,Outbound,M06,Enterprise
+CL0204,2025-03-08,Singapore,Recruitment,Outbound,M06,Large
+CL0205,2024-12-28,Poland,SMB Tech,Organic,M03,Small
+CL0206,2025-07-05,France,Gaming Studios,Organic,M03,Small
+CL0207,2025-08-31,United States,Enterprise Services,Paid Partnerships,M01,Medium
+CL0208,2024-03-07,Estonia,Enterprise Services,Organic,M02,Enterprise
+CL0209,2025-04-02,Singapore,Enterprise Services,Organic,M02,Enterprise
+CL0210,2025-08-21,Spain,SMB Tech,Paid Partnerships,M04,Medium
+CL0211,2025-09-25,Poland,Gaming Studios,Organic,M04,Small
+CL0212,2025-08-10,Poland,SMB Tech,Organic,M05,Small
+CL0213,2025-05-05,France,SMB Tech,Organic,M04,Small
+CL0214,2025-08-02,United States,SMB Tech,Outbound,M02,Medium
+CL0215,2025-08-07,USA,SMB Tech,Referral,M05,Medium
+CL0216,2025-09-16,UAE,SMB Tech,Referral,M06,Small
+CL0217,2025-04-28,Canada,Enterprise Services,Organic,M05,Medium
+CL0218,2025-11-01,UAE,SMB Tech,Paid Partnerships,M06,Medium
+CL0219,2024-10-13,United States,Gaming Studios,Referral,M02,Small
+CL0220,2025-10-07,United States,SMB Tech,Organic,M01,Medium
+CL0221,2025-11-20,Canada,SMB Tech,Organic,M01,Small
+CL0222,2025-11-29,Poland,Recruitment,Referral,M04,Medium
+CL0223,2025-10-25,United States,SMB Tech,Organic,M04,Medium
+CL0224,2024-08-26,USA,SMB Tech,Referral,M04,Medium
+CL0225,2025-12-07,Spain,SMB Tech,Paid Partnerships,M03,Small
+CL0226,2025-02-05,Singapore,SMB Tech,Referral,M02,Medium
+CL0227,2024-01-27,France,SMB Tech,Outbound,M04,Small
+CL0228,2025-01-28,United States,SMB Tech,Outbound,M02,Small
+CL0229,2025-04-23,France,Recruitment,Organic,M03,Large
+CL0230,2025-12-11,Canada,SMB Tech,Paid Partnerships,M02,Medium
+CL0231,2025-08-23,UK,SMB Tech,Referral,M03,Medium
+CL0232,2025-11-18,United Kingdom,Enterprise Services,Paid Partnerships,M03,Small
+CL0233,2025-08-12,Germany,Enterprise Services,Referral,M05,Large
+CL0234,2025-07-17,United Kingdom,SMB Tech,Paid Partnerships,M02,Small
+CL0235,2025-08-26,United States,SMB Tech,Paid Partnerships,M02,Small
+CL0236,2025-07-06,Canada,SMB Tech,Paid Partnerships,M03,Small
+CL0237,2025-11-08,Netherlands,SMB Tech,Organic,M03,Small
+CL0238,2025-01-01,United States,Recruitment,Outbound,M03,Enterprise
+CL0239,2025-03-28,France,SMB Tech,Referral,M01,Large
+CL0240,2024-11-14,Poland,Enterprise Services,Organic,M02,Medium
+CL0241,2025-04-22,United Kingdom,Recruitment,Organic,M01,Small
+CL0242,2025-02-04,Cyprus,Recruitment,Referral,M04,Medium
+CL0243,2025-05-16,United Kingdom,Enterprise Services,Outbound,M06,Large
+CL0244,2025-04-26,France,SMB Tech,Referral,M04,Small
+CL0245,2025-05-08,United States,SMB Tech,Referral,M02,Small
+CL0246,2025-10-02,Cyprus,Recruitment,Referral,M04,Large
+CL0247,2024-07-25,France,SMB Tech,Referral,M05,Small
+CL0248,2024-06-30,Cyprus,SMB Tech,Referral,M01,Medium
+CL0249,2025-09-25,Netherlands,SMB Tech,Referral,M03,Small
+CL0250,2024-12-23,UAE,SMB Tech,Organic,M05,Medium
+CL0251,2025-11-10,Singapore,Enterprise Services,Paid Partnerships,M05,Medium
+CL0252,2024-08-25,Germany,Gaming Studios,Referral,M04,Small
+CL0253,2025-06-15,United Kingdom,SMB Tech,Paid Partnerships,M05,Small
+CL0254,2025-08-26,Cyprus,SMB Tech,Paid Partnerships,M03,Small
+CL0255,2025-12-13,UAE,Recruitment,Organic,M02,Large
+CL0256,2025-09-06,UK,Enterprise Services,Paid Partnerships,M04,Large
+CL0257,2024-12-26,Spain,Gaming Studios,Outbound,M05,Small
+CL0258,2025-04-22,Canada,SMB Tech,Referral,M01,Medium
+CL0259,2025-07-24,United Kingdom,SMB Tech,Outbound,M05,Small
+CL0260,2025-10-25,United States,SMB Tech,Paid Partnerships,M02,Small
+CL0261,2025-12-06,United Kingdom,Enterprise Services,Organic,M02,Enterprise
+CL0262,2025-07-05,Singapore,SMB Tech,Referral,M04,Medium
+CL0263,2025-10-29,Netherlands,SMB Tech,Paid Partnerships,M03,Small
+CL0264,2025-10-13,United Kingdom,SMB Tech,Outbound,M02,Medium
+CL0265,2025-09-16,United Kingdom,SMB Tech,Paid Partnerships,M02,Small
+CL0266,2025-12-17,Cyprus,SMB Tech,Organic,M02,Medium
+CL0267,2025-01-28,Netherlands,SMB Tech,Organic,M06,Small
+CL0268,2025-08-05,Germany,SMB Tech,Paid Partnerships,M04,Small
+CL0269,2024-07-10,Singapore,Recruitment,Outbound,M03,Enterprise
+CL0270,2025-12-03,United States,SMB Tech,Outbound,M06,Medium
+CL0271,2025-11-15,UAE,SMB Tech,Paid Partnerships,M04,Small
+CL0272,2025-10-18,United Kingdom,SMB Tech,Referral,M01,Small
+CL0273,2025-10-19,Singapore,SMB Tech,Paid Partnerships,M06,Small
+CL0274,2025-12-03,USA,Recruitment,Outbound,M06,Enterprise
+CL0275,2024-08-10,Germany,SMB Tech,Referral,M02,Small
+CL0276,2025-07-23,UAE,Enterprise Services,Organic,M05,Large
+CL0277,2025-12-07,Netherlands,SMB Tech,Paid Partnerships,M06,Small
+CL0278,2025-03-12,Netherlands,SMB Tech,Referral,M05,Small
+CL0279,2025-04-08,United States,Enterprise Services,Referral,M06,Large
+CL0280,2025-10-24,Spain,SMB Tech,Paid Partnerships,M06,Small
+CL0281,2025-03-07,United Kingdom,Enterprise Services,Referral,M03,Medium
+CL0282,2025-11-11,Germany,SMB Tech,,M05,Small
+CL0283,2025-12-12,Canada,SMB Tech,Paid Partnerships,M05,Small
+CL0284,2025-10-12,United States,SMB Tech,Referral,M04,Small
+CL0285,2025-05-03,United States,SMB Tech,Referral,M01,Medium
+CL0286,2025-08-08,United States,SMB Tech,Paid Partnerships,M02,Small
+CL0287,2025-08-10,United States,SMB Tech,Paid Partnerships,M05,Small
+CL0288,2024-11-02,Canada,SMB Tech,Organic,M04,Small
+CL0289,2025-10-13,Canada,SMB Tech,Paid Partnerships,M04,Small
+CL0290,2025-11-02,Estonia,Recruitment,Outbound,M06,Large
+CL0291,2024-10-23,Poland,SMB Tech,Organic,M04,Small
+CL0292,2025-04-06,United States,Enterprise Services,Referral,M02,Enterprise
+CL0293,2025-04-11,Germany,SMB Tech,Organic,M01,Medium
+CL0294,2025-12-01,UAE,SMB Tech,Paid Partnerships,M04,Small
+CL0295,2025-09-30,Spain,SMB Tech,Organic,M05,Small
+CL0296,2025-07-25,Canada,Enterprise Services,Outbound,M04,Enterprise
+CL0297,2025-11-16,Poland,SMB Tech,Paid Partnerships,M05,Small
+CL0298,2025-11-21,Netherlands,Recruitment,Paid Partnerships,M01,Large
+CL0299,2024-10-23,Estonia,Enterprise Services,Paid Partnerships,M05,Enterprise
+CL0300,2024-10-17,United Kingdom,Enterprise Services,Organic,M01,Large
+CL0301,2025-03-03,UAE,SMB Tech,Outbound,M03,Small
+CL0302,2024-04-06,United Kingdom,SMB Tech,,M01,Medium
+CL0303,2025-01-24,United Kingdom,Enterprise Services,Paid Partnerships,M05,Large
+CL0304,2025-11-06,GB,Recruitment,Outbound,M02,Large
+CL0305,2025-08-18,Poland,SMB Tech,Referral,M02,Small
+CL0306,2024-07-28,Canada,SMB Tech,Referral,M04,Medium
+CL0307,2025-06-20,Cyprus,SMB Tech,Referral,M06,Small
+CL0308,2024-03-07,Estonia,Gaming Studios,Organic,M03,Medium
+CL0309,2025-09-01,Netherlands,SMB Tech,Paid Partnerships,M01,Small
+CL0310,2025-11-20,United Kingdom,SMB Tech,Referral,M06,Small
+CL0311,2024-05-01,GB,Enterprise Services,Referral,M02,Large
+CL0312,2024-10-09,GB,SMB Tech,Referral,M01,Small
+CL0313,2024-11-09,Canada,Enterprise Services,Paid Partnerships,M03,Small
+CL0314,2025-11-21,United Kingdom,Enterprise Services,Referral,M04,Large
+CL0315,2025-08-17,United States,Recruitment,Organic,M01,Enterprise
+CL0316,2025-11-06,Germany,SMB Tech,Referral,M03,Small
+CL0317,2025-06-09,Canada,Enterprise Services,Referral,M06,Large
+CL0318,2024-08-02,Netherlands,SMB Tech,Outbound,M04,Small
+CL0319,2025-10-24,Canada,SMB Tech,Paid Partnerships,M01,Small
+CL0320,2025-01-23,UAE,SMB Tech,Organic,M04,Small
+CL0321,2025-07-20,Germany,SMB Tech,Paid Partnerships,M01,Medium
+CL0322,2025-02-01,UAE,Enterprise Services,Outbound,M04,Large
+CL0323,2024-10-30,United States,SMB Tech,Organic,M04,Small
+CL0324,2025-10-17,Netherlands,Enterprise Services,Organic,M05,Enterprise
+CL0325,2024-12-14,Canada,SMB Tech,Organic,M02,Small
+CL0326,2025-06-15,GB,SMB Tech,Paid Partnerships,M01,Large
+CL0327,2025-02-28,United States,SMB Tech,Referral,M06,Small
+CL0328,2025-07-23,United States,SMB Tech,Referral,M03,Medium
+CL0329,2024-10-10,Estonia,SMB Tech,Organic,M01,Small
+CL0330,2025-12-16,Spain,SMB Tech,Organic,M05,Small
+CL0331,2025-12-03,Singapore,SMB Tech,Organic,M04,Small
+CL0332,2024-09-18,Netherlands,Recruitment,Organic,M01,Large
+CL0333,2025-09-13,USA,SMB Tech,Paid Partnerships,M01,Small
+CL0334,2025-12-07,Estonia,SMB Tech,Paid Partnerships,M04,Medium
+CL0335,2024-12-01,UAE,Gaming Studios,Organic,M01,Large
+CL0336,2025-11-09,Singapore,SMB Tech,Organic,M06,Medium
+CL0337,2025-09-13,Netherlands,SMB Tech,Paid Partnerships,M06,Small
+CL0338,2025-05-03,Canada,SMB Tech,Organic,M01,Medium
+CL0339,2025-02-04,France,Gaming Studios,,M02,Medium
+CL0340,2025-09-15,UAE,SMB Tech,Referral,M01,Medium
+CL0341,2025-11-21,Spain,Recruitment,Organic,M01,Enterprise
+CL0342,2025-11-19,Estonia,SMB Tech,Referral,M04,Small
+CL0343,2025-02-25,United States,Enterprise Services,Organic,M03,Large
+CL0344,2025-06-17,UK,SMB Tech,Organic,M04,Small
+CL0345,2024-08-22,United Kingdom,SMB Tech,Referral,M04,Medium
+CL0346,2025-08-30,Estonia,SMB Tech,Outbound,M03,Small
+CL0347,2025-05-05,United States,SMB Tech,Referral,M01,Small
+CL0348,2025-11-30,Singapore,SMB Tech,Referral,M02,Small
+CL0349,2025-03-26,United Kingdom,SMB Tech,Referral,M03,Small
+CL0350,2025-09-23,UAE,Gaming Studios,Outbound,M01,Medium
+CL0351,2024-10-12,Germany,Enterprise Services,Organic,M01,Large
+CL0352,2025-11-02,UAE,Enterprise Services,Organic,M03,Medium
+CL0353,2025-05-13,Poland,Recruitment,Organic,M01,Medium
+CL0354,2025-12-02,UAE,SMB Tech,Paid Partnerships,M01,Small
+CL0355,2025-11-23,Netherlands,Recruitment,Referral,M06,Medium
+CL0356,2025-06-08,UAE,Recruitment,Organic,M01,Large
+CL0357,2025-08-26,Singapore,Enterprise Services,Organic,M03,Medium
+CL0358,2024-05-04,United Kingdom,SMB Tech,Organic,M03,Medium
+CL0359,2025-08-25,United States,SMB Tech,Paid Partnerships,M05,Small
+CL0360,2025-05-12,Poland,SMB Tech,Paid Partnerships,M04,Medium
+CL0361,2024-05-22,UK,SMB Tech,Paid Partnerships,M03,Small
+CL0362,2025-10-20,France,Enterprise Services,Referral,M06,Large
+CL0363,2025-12-03,United States,Gaming Studios,Outbound,M06,Medium
+CL0364,2024-11-24,United Kingdom,Gaming Studios,Referral,M05,Medium
+CL0365,2025-11-09,Canada,SMB Tech,Referral,M03,Small
+CL0366,2025-10-17,Cyprus,Gaming Studios,Referral,M01,Medium
+CL0367,2025-12-17,Netherlands,SMB Tech,Outbound,M03,Medium
+CL0368,2025-04-02,Netherlands,Enterprise Services,Referral,M03,Medium
+CL0369,2025-10-22,Cyprus,Recruitment,Paid Partnerships,M03,Enterprise
+CL0370,2025-05-29,GB,SMB Tech,Organic,M06,Medium
+CL0371,2025-10-24,Poland,SMB Tech,Paid Partnerships,M03,Small
+CL0372,2025-09-23,France,Recruitment,Organic,M05,Medium
+CL0373,2024-05-13,Germany,SMB Tech,Organic,M02,Medium
+CL0374,2025-09-05,Poland,SMB Tech,Organic,M01,Medium
+CL0375,2025-10-16,Germany,Recruitment,,M02,Medium
+CL0376,2025-10-03,Netherlands,SMB Tech,Organic,M03,Medium
+CL0377,2025-11-19,Cyprus,Recruitment,Outbound,M03,Medium
+CL0378,2025-01-02,United States,Enterprise Services,Referral,M02,Enterprise
+CL0379,2024-06-06,Netherlands,SMB Tech,Organic,M01,Small
+CL0380,2024-09-05,Germany,Enterprise Services,Referral,M02,Enterprise
+CL0381,2025-11-21,UAE,Recruitment,Paid Partnerships,M03,Small
+CL0382,2025-07-09,Spain,Recruitment,Organic,M01,Large
+CL0383,2025-09-28,Canada,Enterprise Services,Organic,M03,Medium
+CL0384,2025-12-14,United States,SMB Tech,Referral,M04,Small
+CL0385,2024-12-07,UAE,Enterprise Services,Referral,M01,Large
+CL0386,2025-07-18,UAE,SMB Tech,Referral,M02,Medium
+CL0387,2025-08-18,Spain,SMB Tech,Outbound,M03,Medium
+CL0388,2025-10-28,UK,SMB Tech,,M04,Small
+CL0389,2025-09-27,Germany,SMB Tech,Outbound,M03,Small
+CL0390,2025-06-14,UAE,Recruitment,Organic,M02,Enterprise
+CL0391,2025-08-15,Cyprus,SMB Tech,Organic,M05,Medium
+CL0392,2025-05-15,Germany,Enterprise Services,Outbound,M02,Enterprise
+CL0393,2025-11-12,France,Enterprise Services,Referral,M05,Large
+CL0394,2025-02-21,United States,SMB Tech,Referral,M04,Medium
+CL0395,2024-05-01,United Kingdom,SMB Tech,Referral,M02,Small
+CL0396,2025-02-22,Germany,SMB Tech,Organic,M03,Small
+CL0397,2025-09-02,Poland,SMB Tech,Paid Partnerships,M03,Small
+CL0398,2024-12-27,United Kingdom,Enterprise Services,Organic,M02,Medium
+CL0399,2025-11-17,Poland,SMB Tech,Organic,M03,Small
+CL0400,2025-03-27,Spain,SMB Tech,Organic,M01,Medium
+CL0401,2024-05-18,Canada,SMB Tech,Referral,M03,Medium
+CL0402,2025-11-28,Poland,SMB Tech,Paid Partnerships,M03,Small
+CL0403,2025-11-27,France,SMB Tech,Paid Partnerships,M05,Small
+CL0404,2025-09-27,Estonia,Enterprise Services,Outbound,M05,Large
+CL0405,2025-12-09,Estonia,Enterprise Services,Paid Partnerships,M05,Enterprise
+CL0406,2024-08-28,Cyprus,SMB Tech,Referral,M04,Small
+CL0407,2024-10-25,United Kingdom,SMB Tech,Organic,M01,Small
+CL0408,2025-10-15,Cyprus,Recruitment,Organic,M06,Enterprise
+CL0409,2025-11-11,France,Enterprise Services,Organic,M02,Medium
+CL0410,2025-05-27,Poland,Enterprise Services,Outbound,M01,Large
+CL0411,2025-05-11,United States,Enterprise Services,Referral,M02,Enterprise
+CL0412,2025-08-28,Netherlands,SMB Tech,Paid Partnerships,M06,Small
+CL0413,2025-09-18,France,SMB Tech,Paid Partnerships,M02,Small
+CL0414,2025-11-06,Singapore,Enterprise Services,Organic,M05,Enterprise
+CL0415,2025-02-25,United Kingdom,SMB Tech,Organic,M04,Medium
+CL0416,2024-12-01,Canada,Recruitment,Organic,M02,Small
+CL0417,2025-07-17,United Kingdom,Recruitment,Organic,M01,Enterprise
+CL0418,2024-12-29,France,Enterprise Services,Paid Partnerships,M02,Medium
+CL0419,2025-10-01,Singapore,SMB Tech,Outbound,M05,Medium
+CL0420,2024-12-19,Singapore,SMB Tech,Organic,M03,Small
+CL0421,2025-04-08,GB,Enterprise Services,Organic,M04,Large
+CL0422,2025-11-11,UAE,SMB Tech,Paid Partnerships,M03,Small
+CL0423,2024-04-07,United States,SMB Tech,Referral,M03,Small
+CL0424,2025-08-31,GB,SMB Tech,Referral,M01,Small
+CL0425,2024-09-09,Canada,SMB Tech,Organic,M04,Medium
+CL0426,2025-06-04,Cyprus,Enterprise Services,Organic,M03,Medium
+CL0427,2025-11-25,Poland,Enterprise Services,Outbound,M05,Enterprise
+CL0428,2024-12-17,GB,Gaming Studios,Paid Partnerships,M04,Medium
+CL0429,2025-10-31,Canada,SMB Tech,Paid Partnerships,M05,Small
+CL0430,2025-11-08,United States,SMB Tech,Paid Partnerships,M02,Small
+CL0431,2024-07-30,United Kingdom,SMB Tech,Referral,M02,Medium
+CL0432,2024-09-05,UAE,SMB Tech,Referral,M03,Small
+CL0433,2025-09-10,Cyprus,SMB Tech,Paid Partnerships,M03,Small
+CL0434,2025-10-14,Germany,SMB Tech,Outbound,M03,Medium
+CL0435,2025-06-21,Cyprus,Enterprise Services,Outbound,M02,Enterprise
+CL0436,2025-12-01,Cyprus,Enterprise Services,Referral,M05,Medium
+CL0437,2025-06-02,France,Gaming Studios,Paid Partnerships,M03,Small
+CL0438,2025-02-07,Canada,Enterprise Services,Organic,M03,Large
+CL0439,2025-09-14,United Kingdom,Recruitment,Referral,M01,Enterprise
+CL0440,2025-08-28,Poland,Recruitment,Outbound,M03,Large
+CL0441,2025-09-30,Netherlands,Recruitment,Organic,M01,Enterprise
+CL0442,2025-03-11,United States,Recruitment,Outbound,M04,Large
+CL0443,2025-03-04,Canada,Gaming Studios,Organic,M02,Small
+CL0444,2024-10-06,USA,SMB Tech,Organic,M01,Small
+CL0445,2025-07-04,UAE,Recruitment,Referral,M02,Medium
+CL0446,2025-12-07,USA,Recruitment,Outbound,M03,Large
+CL0447,2025-10-20,Netherlands,SMB Tech,Organic,M03,Small
+CL0448,2025-08-27,Germany,Recruitment,Referral,M01,Medium
+CL0449,2024-05-10,Estonia,SMB Tech,Organic,M01,Medium
+CL0450,2025-04-24,Netherlands,SMB Tech,Paid Partnerships,M03,Small
+CL0451,2025-11-09,United Kingdom,SMB Tech,Outbound,M03,Medium
+CL0452,2024-12-18,Cyprus,Enterprise Services,Organic,M03,Large
+CL0453,2025-10-23,Germany,Enterprise Services,Organic,M06,Large
+CL0454,2025-12-16,Estonia,SMB Tech,Organic,M04,Medium
+CL0455,2024-12-08,United Kingdom,Recruitment,Organic,M04,Large
+CL0456,2025-12-11,United Kingdom,SMB Tech,Paid Partnerships,M03,Medium
+CL0457,2025-02-13,United States,SMB Tech,Referral,M06,Medium
+CL0458,2025-09-19,Cyprus,SMB Tech,Organic,M04,Medium
+CL0459,2024-10-29,United States,Recruitment,Outbound,M02,Medium
+CL0460,2025-12-11,Poland,SMB Tech,Paid Partnerships,M04,Small
+CL0461,2025-04-18,USA,SMB Tech,Referral,M03,Small
+CL0462,2025-11-14,United Kingdom,SMB Tech,Paid Partnerships,M06,Small
+CL0463,2025-09-02,Canada,SMB Tech,Paid Partnerships,M05,Small
+CL0464,2024-10-06,Germany,SMB Tech,Referral,M04,Medium
+CL0465,2024-12-06,United Kingdom,SMB Tech,Organic,M03,Small
+CL0466,2025-10-14,United Kingdom,Enterprise Services,Paid Partnerships,M05,Large
+CL0467,2024-12-23,United States,SMB Tech,Organic,M04,Large
+CL0468,2025-11-24,Canada,SMB Tech,Outbound,M04,Small
+CL0469,2025-03-03,Poland,Recruitment,Referral,M01,Medium
+CL0470,2024-04-04,Netherlands,Gaming Studios,Referral,M02,Small
+CL0471,2024-04-05,Singapore,SMB Tech,,M03,Small
+CL0472,2025-05-14,United Kingdom,Enterprise Services,Referral,M02,Large
+CL0473,2025-04-27,GB,SMB Tech,Organic,M02,Medium
+CL0474,2025-09-27,UAE,SMB Tech,Paid Partnerships,M02,Medium
+CL0475,2025-01-19,Netherlands,SMB Tech,Referral,M01,Small
+CL0476,2025-09-26,Canada,SMB Tech,Organic,M06,Small
+CL0477,2025-11-20,Poland,SMB Tech,Referral,M03,Large
+CL0478,2024-11-02,United Kingdom,Enterprise Services,Referral,M02,Large
+CL0479,2024-12-29,Spain,Gaming Studios,Outbound,M04,Medium
+CL0480,2025-09-08,France,Recruitment,Referral,M05,Large
+CL0481,2025-07-14,Estonia,Enterprise Services,Referral,M03,Medium
+CL0482,2025-10-14,Germany,SMB Tech,Organic,M06,Small
+CL0483,2025-08-10,United States,SMB Tech,Referral,M04,Medium
+CL0484,2024-07-17,France,Gaming Studios,Referral,M02,Small
+CL0485,2024-08-02,Germany,Enterprise Services,Referral,M04,Enterprise
+CL0486,2025-01-18,United Kingdom,Enterprise Services,Referral,M02,Large
+CL0487,2025-11-17,France,SMB Tech,Outbound,M03,Small
+CL0488,2025-05-22,United Kingdom,SMB Tech,Outbound,M04,Small
+CL0489,2024-11-22,UAE,SMB Tech,Referral,M03,Medium
+CL0490,2025-11-29,United States,SMB Tech,Paid Partnerships,M04,Medium
+CL0491,2025-08-27,USA,SMB Tech,Paid Partnerships,M02,Small
+CL0492,2025-04-20,France,SMB Tech,Outbound,M04,Medium
+CL0493,2025-07-24,Netherlands,SMB Tech,Organic,M05,Medium
+CL0494,2025-12-06,France,Enterprise Services,Referral,M05,Large
+CL0495,2025-07-13,United States,Recruitment,Referral,M02,Medium
+CL0496,2025-12-16,UK,SMB Tech,Outbound,M03,Small
+CL0497,2025-11-19,Germany,Enterprise Services,Paid Partnerships,M01,Small
+CL0498,2025-08-22,Canada,Recruitment,Referral,M03,Medium
+CL0499,2025-12-17,United States,Recruitment,Outbound,M04,Enterprise
+CL0500,2024-07-05,Spain,Gaming Studios,Outbound,M05,Medium
+CL0501,2025-02-10,Germany,SMB Tech,Outbound,M06,Large
+CL0502,2025-11-11,Germany,SMB Tech,Paid Partnerships,M05,Small
+CL0503,2025-11-10,Cyprus,SMB Tech,Paid Partnerships,M06,Small
+CL0504,2025-12-15,Canada,Enterprise Services,Organic,M03,Medium
+CL0505,2024-12-24,Canada,SMB Tech,Organic,M01,Medium
+CL0506,2025-10-23,France,SMB Tech,Referral,M04,Small
+CL0507,2025-10-30,Germany,SMB Tech,Paid Partnerships,M03,Medium
