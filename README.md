@@ -1,69 +1,45 @@
-# CrossPay — Analytics Test Dataset
+# CrossPay Analytics
 
-CrossPay is a **synthetic** international B2B payments service: companies use it
-to pay contractors and vendors across borders. All data below is artificially
-generated for this exercise — no real companies or people are represented.
+Аналитика синтетического B2B-сервиса международных платежей CrossPay: компании платят через него подрядчикам и поставщикам в разных странах. Задача — разобраться, что происходит с бизнесом, и подготовить материалы для CEO.
 
-**Data period:** 2025-01-01 — 2025-12-20.
+Результат — веб-приложение на **Streamlit** из трёх дашбордов, которое можно понять за 10 минут без дополнительного контекста.
 
-## Files
+## Дашборды
 
-### clients.csv
-One row per client company.
+| Дашборд | Вопрос, на который отвечает | Метрики |
+|---|---|---|
+| **Финансовый итог** | Растёт ли бизнес и насколько он прибылен? | GMV, выручка, маржинальность, конверсия платежей, число транзакций — помесячно и в сравнении с предыдущим периодом |
+| **Клиенты и сегменты** | Кто наши клиенты и возвращаются ли они? | Активные клиенты, ARPU, новые клиенты, retention 30/60/90 дней, матрица «сегмент × размер компании» |
+| **Операционные риски** | Где теряются платежи и деньги? | Доля отказов и возвратов, причины отказов, отказы по странам, время обработки, таблица аномалий |
 
-| column | description |
-|---|---|
-| client_id | Client identifier (CLxxxx) |
-| signup_date | Date the client registered |
-| country | Client's country |
-| segment | Business segment |
-| acquisition_channel | How the client was acquired |
-| account_manager_id | Assigned account manager (see managers.csv) |
-| company_size | Small / Medium / Large / Enterprise |
+## Подход
 
-### transactions.csv
-One row per payment attempt.
+- **Единая валюта.** Суммы, комиссии и затраты переведены в USD по курсу на дату платежа (`fx_rates.csv`), чтобы корректно сравнивать операции в разных валютах.
+- **Качество данных.** Аномалии вынесены в отдельную таблицу, а не молча удалены: отрицательные суммы, платежи в статусе `pending` дольше 7 дней, обработка дольше 72 часов.
+- **Определения метрик.** GMV и выручка считаются по успешным (`completed`) платежам; маржинальность = (выручка − прямые затраты) / выручка; конверсия = доля успешных платежей среди завершённых попыток; retention — наличие повторной транзакции в течение 30/60/90 дней после первой.
+- **Фильтры.** Период, сегмент, страна и другие срезы задаются в боковой панели каждого дашборда.
 
-| column | description |
-|---|---|
-| transaction_id | Payment identifier (TXxxxxxxxx) |
-| client_id | Paying client |
-| created_at | When the payment was initiated |
-| completed_at | When funds were delivered (may be empty) |
-| payout_country | Country of the payout recipient |
-| currency | Transaction currency |
-| amount | Payment amount **in the transaction currency** |
-| status | completed / failed / refunded / pending |
-| client_fee | Fee charged to the client, in the transaction currency |
-| direct_cost | CrossPay's direct processing cost, in the transaction currency |
-| failure_reason | Filled for failed payments only |
+## Запуск
 
-Statuses: `completed` — funds delivered; `failed` — attempt was not executed;
-`refunded` — executed and subsequently returned; `pending` — still in progress.
+```bash
+git clone https://github.com/stefaniakosulnikova/crosspay-analytics.git
+cd crosspay-analytics
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-### fx_rates.csv
+## Структура
 
-| column | description |
-|---|---|
-| date | Quote date |
-| currency | Currency code |
-| usd_rate | **How many USD one unit of the currency is worth** (USD = 1) |
+```
+app.py                         — главная страница
+pages/1_Финансовый_итог.py     — финансовый дашборд
+pages/2_Клиенты_и_сегменты.py  — клиентская аналитика
+pages/3_Операционные_риски.py  — операционные риски и аномалии
+data/                          — данные (описание полей — в data/README.md)
+```
 
-### support_tickets.csv
+## Данные
 
-| column | description |
-|---|---|
-| ticket_id | Ticket identifier |
-| client_id | Client who opened the ticket |
-| opened_at | When the ticket was opened |
-| resolved_at | When it was resolved (may be empty) |
-| category | Payment issue / Documents / Compliance / Account / Technical / Other |
-| priority | Low / Medium / High / Critical |
+Синтетические данные за период 01.01.2025 — 20.12.2025: клиенты, транзакции, курсы валют, обращения в поддержку, менеджеры. Реальные компании и люди не представлены. Подробное описание полей — в [data/README.md](data/README.md).
 
-### managers.csv
-
-| column | description |
-|---|---|
-| account_manager_id | Manager identifier (M01–M06) |
-| start_date | First working day at CrossPay |
-| region | Manager's home region |
+**Стек:** Python, pandas, Plotly, Streamlit
